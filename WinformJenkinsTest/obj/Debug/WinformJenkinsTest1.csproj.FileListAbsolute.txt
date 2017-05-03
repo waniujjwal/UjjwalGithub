@@ -1,0 +1,9 @@
+C:\Users\inujwan\Desktop\Jenkins Training\C#\WinformJenkinsTest1\WinformJenkinsTest\bin\Debug\WinformJenkinsTest.exe.config
+C:\Users\inujwan\Desktop\Jenkins Training\C#\WinformJenkinsTest1\WinformJenkinsTest\bin\Debug\WinformJenkinsTest.exe
+C:\Users\inujwan\Desktop\Jenkins Training\C#\WinformJenkinsTest1\WinformJenkinsTest\bin\Debug\WinformJenkinsTest.pdb
+C:\Users\inujwan\Desktop\Jenkins Training\C#\WinformJenkinsTest1\WinformJenkinsTest\obj\Debug\WinformJenkinsTest1.csprojResolveAssemblyReference.cache
+C:\Users\inujwan\Desktop\Jenkins Training\C#\WinformJenkinsTest1\WinformJenkinsTest\obj\Debug\WinformJenkinsTest.Form1.resources
+C:\Users\inujwan\Desktop\Jenkins Training\C#\WinformJenkinsTest1\WinformJenkinsTest\obj\Debug\WinformJenkinsTest.Properties.Resources.resources
+C:\Users\inujwan\Desktop\Jenkins Training\C#\WinformJenkinsTest1\WinformJenkinsTest\obj\Debug\WinformJenkinsTest1.csproj.GenerateResource.Cache
+C:\Users\inujwan\Desktop\Jenkins Training\C#\WinformJenkinsTest1\WinformJenkinsTest\obj\Debug\WinformJenkinsTest.exe
+C:\Users\inujwan\Desktop\Jenkins Training\C#\WinformJenkinsTest1\WinformJenkinsTest\obj\Debug\WinformJenkinsTest.pdb
