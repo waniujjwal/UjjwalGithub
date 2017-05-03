@@ -1,6 +1,0 @@
-C:\Users\inujwan\Desktop\Jenkins Training\C#\WinformJenkinsTest1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
-C:\Users\inujwan\Desktop\Jenkins Training\C#\WinformJenkinsTest1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
-C:\Users\inujwan\Desktop\Jenkins Training\C#\WinformJenkinsTest1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-C:\Users\inujwan\Desktop\Jenkins Training\C#\WinformJenkinsTest1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
-C:\Users\inujwan\Desktop\Jenkins Training\C#\WinformJenkinsTest1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
-C:\Users\inujwan\Desktop\Jenkins Training\C#\WinformJenkinsTest1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
